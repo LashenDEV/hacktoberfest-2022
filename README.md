@@ -54,4 +54,4 @@ git push origin my-new-branch
 9. Create a new pull request from your forked repository.
 10. Congratulations 🎉 you just made a pull request!
 
-Once you are done, don't forget to show me some love with giving me a ⭐️
+Once you are done, don't forget to show some love with giving me a ⭐️
