@@ -29,4 +29,4 @@ git push origin my-new-branch
 9. Create a new pull request from your forked repository.
 10. Congratulations 🎉 you just made a pull request! 
 
-> Please note that you have to select 4 [issues](https://github.com/dasundev/hacktoberfest-2022/issues) and make 4 pull requests in order to complete the Hacktoberfest participation.
+> Please note that you need to select 4 [issues](https://github.com/dasundev/hacktoberfest-2022/issues) and make 4 pull requests to complete Hacktoberfest participation. To successfully make pull requests, create a new file with your GitHub username in the relevant programming language folder, then add your answers in it. You can use the same file to complete your 4 pull requests. Please check this sample for your reference.
