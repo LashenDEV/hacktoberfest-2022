@@ -2,24 +2,24 @@
 ![image](https://user-images.githubusercontent.com/54996800/192564253-f3373ecc-bc86-4c13-a0bd-551b9c23f788.png)
 
 ## What is Hacktoberfest?
-<p>Hacktoberfest Is Digitalocean’s Annual Event That Encourages People To Contribute To Open Source Throughout October. Much Of Modern Tech Infrastructure—including Some Of Digitalocean’s Own Products—relies On Open-source Projects Built And Maintained By Passionate People Who Often Don’t Have The Staff Or Budgets To Do Much More Than Keep The Project Alive. Hacktoberfest Is All About Giving Back To Those Projects, Sharpening Skills, And Celebrating All Things Open Source, Especially The People That Make Open Source So Special.</p>
+<p>Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.</p>
 
 ## Values
-- Everyone Is Welcome
-- Quantity Is Fun, Quality Is Key
-- Short-term Action, Long-term Impact
+- Everyone is welcome
+- Quantity is fun, quality is key
+- Short-term action, long-term impact
 
 ## Contributors
-Here’s What You Need To Know To Participate And Complete Hacktoberfest:
-- Register Anytime Between September 26 And October 31
+Here’s what you need to know to participate and complete Hacktoberfest:
+- Register anytime between september 26 and october 31
 
-- Pull Requests Can Be Made In Any Github Or Gitlab Hosted Project That’s Participating In Hacktoberfest (Look For The “hacktoberfest” Topic)
+- Pull requests can be made in any github or gitlab hosted project that’s participating in hacktoberfest (look for the “hacktoberfest” topic)
 
-- Project Maintainers Must Accept Your Pull/merge Requests For Them To Count Toward Your Total
+- Project maintainers must accept your pull/merge requests for them to count toward your total
 
-- Have 4 Pull/merge Requests Accepted Between October 1 And October 31 To Complete Hacktoberfest
+- Have 4 pull/merge requests accepted between october 1 and october 31 to complete hacktoberfest
 
-- The First 40,000 Participants (Maintainers And Contributors) Who Complete Hacktoberfest Can Elect To Receive One Of Two Prizes: A Tree Planted In Their Name, Or The Hacktoberfest 2022 T-shirt.
+- The first 40,000 participants (maintainers and contributors) who complete hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the hacktoberfest 2022 t-shirt.
 
 ## Let's begin
 
@@ -52,4 +52,4 @@ git push origin my-new-branch
 9. Create a new pull request from your forked repository.
 10. Congratulations 🎉 you just made a pull request! 
 
-> Please note that you have select 4 issues and make 4 pull requests in order to complete the Hacktoberfest participation.
+> Please note that you have to select 4 [issues](https://github.com/dasundev/hacktoberfest-2022/issues) and make 4 pull requests in order to complete the Hacktoberfest participation.
