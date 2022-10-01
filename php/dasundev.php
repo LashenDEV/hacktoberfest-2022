@@ -16,4 +16,9 @@ function reverseAnArray($array)
 
 echo "Reverse an array : " . reverseAnArray([1, 2, 3, 4]);
 
+function lastEl($array){
+    return end($array);
+}
+
+echo "The last element of the array is : " . lastEl([1, 2, 3, 4]);
 ?>
